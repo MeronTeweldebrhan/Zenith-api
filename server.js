@@ -10,7 +10,7 @@ app.use(express.json())
 
 connection()
 
-app.use('/api/product',productRoutes)
+app.use('/api/products',productRoutes)
 
 
 

@@ -15,7 +15,7 @@ price:{
     required:true,
     min:[0.01,'Price must be greater than 0']
 },
-categroy:{
+category:{
     type:String,
     required:true
 },
